@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ianyin626
+- 👋 Hi, I’m Ian
 - 👀 I’m interested in robotics and programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on robot design and autonomous
